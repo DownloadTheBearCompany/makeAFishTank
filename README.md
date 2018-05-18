@@ -29,14 +29,17 @@
 
 # Links
 
-| Name       | Link                                                                               |
-| ---        | ---                                                                                |
-| The Stand  | [3D printable STL]() [GCode]()                                                     |
-| Solar pump | [Amazon](https://www.amazon.ca/OTTFF-Portable-Air-Pump-Fishing/dp/B074MTTBNF)      |
-| Twitter    | [@MichaelTiBear](https://twitter.com/MichaelTiBear)                                |
-| Facebook   | [Follow me on Facebook!](https://www.facebook.com/michael.ti.bear)                 |
-| Instagram  | [Check it out!](https://www.instagram.com/michaeltibear/)                          |
-| Website    | [Everything can be found at downloadthebear.com](https://downloadthebear.com/)     |
+| Name       | Link                                                                           |
+| ---        | ---                                                                            |
+| The Stand  | [3D printable STL][Github1] [GCode][Github2]                                   |
+| Solar pump | [Amazon](https://www.amazon.ca/OTTFF-Portable-Air-Pump-Fishing/dp/B074MTTBNF)  |
+| Twitter    | [@MichaelTiBear](https://twitter.com/MichaelTiBear)                            |
+| Facebook   | [Follow me on Facebook!](https://www.facebook.com/michael.ti.bear)             |
+| Instagram  | [Check it out!](https://www.instagram.com/michaeltibear/)                      |
+| Website    | [Everything can be found at downloadthebear.com](https://downloadthebear.com/) |
+
+[Github1]: https://github.com/DownloadTheBearCompany/makeAFishTank/blob/master/WMStand.stl
+[Github2]: https://github.com/DownloadTheBearCompany/makeAFishTank/blob/master/WMStand.gcode
 
 # Link to the Blog post
 | Name       | Link                                                                               |
