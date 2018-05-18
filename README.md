@@ -42,9 +42,9 @@
 [Github2]: https://github.com/DownloadTheBearCompany/makeAFishTank/blob/master/WMStand.gcode
 
 # Link to the Blog post
-| Name       | Link                                                                               |
-| ---        | ---                                                                                |
-| Post       | [How to make a fish tank](https://github.com/DownloadTheBearCompany/makeAFishTank) |
+| Name | Link                                                                                                              |
+| ---  | ---                                                                                                               |
+| Post | [How to make a fish tank](https://downloadthebear.com/2018/05/18/make-a-fish-tank-the-most-affordable-fish-tank/) |
 
 
 # The steps
